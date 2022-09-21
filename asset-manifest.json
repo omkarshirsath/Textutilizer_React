@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omkarshirsath/TextUtilizer_React/static/css/main.073c9b0a.css",
+    "main.js": "/omkarshirsath/TextUtilizer_React/static/js/main.dd7be18b.js",
+    "static/js/787.719ec76d.chunk.js": "/omkarshirsath/TextUtilizer_React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/omkarshirsath/TextUtilizer_React/index.html",
+    "main.073c9b0a.css.map": "/omkarshirsath/TextUtilizer_React/static/css/main.073c9b0a.css.map",
+    "main.dd7be18b.js.map": "/omkarshirsath/TextUtilizer_React/static/js/main.dd7be18b.js.map",
+    "787.719ec76d.chunk.js.map": "/omkarshirsath/TextUtilizer_React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd7be18b.js"
+  ]
+}
